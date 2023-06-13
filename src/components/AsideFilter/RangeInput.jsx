@@ -1,9 +1,7 @@
 import React from 'react';
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
-// import debounce from "@material-ui/core/utils/debounce";
-
-
+import debounce from "@material-ui/core/utils/debounce";
 
 const  RangeInput = ({slider, setSlider}) =>{
 
