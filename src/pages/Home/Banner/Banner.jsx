@@ -26,7 +26,7 @@ const Banner = () => {
                         <div className="banner__info">
                             <h2 className="banner__title">
                                 loft <br/>
-                                мебель
+                                мебель!
                             </h2>
                             <p className="banner__text">
                                 Современная и удобная мебель в Анапе
